@@ -1,2 +1,2 @@
 # Bharatintern
-In this internship, I have completed all three tasks and code are available here!!
+This is a separate repository of the tasks done in my Bharat intern so that all the tasks can be seen in one place.The tasks that were given to me were Netflix Homepage, Portfolio Website and Temperature Converter, out of which i had to do any two to complete my internship but i have done all three...I enjoyed doing these tasks a lot, did something new and my skills also developed and I thank Bharat Intern very much for giving me this internship and hope that you will like the work done by me!!
